@@ -2,7 +2,7 @@
 
 ## About me: 
 
-Greetings! I am a PhD student in the Department of Automation, SEIEE, Shanghai Jiao Tong University, supervised by Prof. [Hongbin Shen](http://www.csbio.sjtu.edu.cn/) and Prof. Ye Yuan. My research interests include machine learning and bioinformatics.
+Greetings! I am a PhD student in the Department of Automation, SEIEE, Shanghai Jiao Tong University, supervised by [Prof. Hongbin Shen](http://www.csbio.sjtu.edu.cn/) and Prof. Ye Yuan. My research interests include machine learning and bioinformatics.
 
 I received my M.S. degree in Electrical and Computer Engineering from the Ohio State University in 2018, supervised by Prof. Wei Zhang, and the B.S. Degree in Automation from Shanghai Jiao Tong University in 2017.
 
