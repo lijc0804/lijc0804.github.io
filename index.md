@@ -8,17 +8,21 @@ I received my M.S. degree in Electrical and Computer Engineering from the Ohio S
 
 ## Publication: 
 CCST
+
 SCC
+
 CINS
 
 ## Teaching: 
 Teaching Associate at Shanghai Jiao Tong University: C++ programming, Autumn 2021
+
 Teaching Associate at Shanghai Jiao Tong University: C programming, Autumn 2020
+
 Graduate Teaching Associate at the Ohio State University: ECE5463 Introduction to Robotics, Spring 2018
 
 ## Intership:
 Tencent AI lab, Shenzhen, China, May 2019 - March 2020
+
 General Motors China Science Lab, Shanghai, China, Sep 2018 - Nov 2018
 
-## Patent：
 
