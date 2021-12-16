@@ -1,4 +1,4 @@
-### This is the homepage of Jiachen Li
+# Homepage of Jiachen Li
 
 ## About me: 
 
